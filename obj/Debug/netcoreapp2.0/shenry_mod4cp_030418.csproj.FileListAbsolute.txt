@@ -1,0 +1,10 @@
+C:\Users\sean\Desktop\shenry_mod4cp_030418\bin\Debug\netcoreapp2.0\shenry_mod4cp_030418.deps.json
+C:\Users\sean\Desktop\shenry_mod4cp_030418\bin\Debug\netcoreapp2.0\shenry_mod4cp_030418.runtimeconfig.json
+C:\Users\sean\Desktop\shenry_mod4cp_030418\bin\Debug\netcoreapp2.0\shenry_mod4cp_030418.runtimeconfig.dev.json
+C:\Users\sean\Desktop\shenry_mod4cp_030418\bin\Debug\netcoreapp2.0\shenry_mod4cp_030418.dll
+C:\Users\sean\Desktop\shenry_mod4cp_030418\bin\Debug\netcoreapp2.0\shenry_mod4cp_030418.pdb
+C:\Users\sean\Desktop\shenry_mod4cp_030418\obj\Debug\netcoreapp2.0\shenry_mod4cp_030418.csproj.CoreCompileInputs.cache
+C:\Users\sean\Desktop\shenry_mod4cp_030418\obj\Debug\netcoreapp2.0\shenry_mod4cp_030418.AssemblyInfoInputs.cache
+C:\Users\sean\Desktop\shenry_mod4cp_030418\obj\Debug\netcoreapp2.0\shenry_mod4cp_030418.AssemblyInfo.cs
+C:\Users\sean\Desktop\shenry_mod4cp_030418\obj\Debug\netcoreapp2.0\shenry_mod4cp_030418.dll
+C:\Users\sean\Desktop\shenry_mod4cp_030418\obj\Debug\netcoreapp2.0\shenry_mod4cp_030418.pdb

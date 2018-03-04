@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/shenry_mod4cp_030418.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
